@@ -29,7 +29,9 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 
 ## IDE Snippets
 
--[VS Code Angular Snippets](https://github.com/johnpapa/vscode-angular-snippets)
+- [VS Code Angular Snippets](https://github.com/johnpapa/vscode-angular-snippets)
+- [VS Code D3 Snippets](https://github.com/Ledragon/d3Snippets)
+- [Atom D3 Snippets](https://github.com/martgnz/d3-snippets)
 
 ## License
 
